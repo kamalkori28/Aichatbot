@@ -1,11 +1,11 @@
 <h1 align="center">🤖 AI Chatbot (Aichatbot)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&width=500&lines=AI+Chatbot;Powered+by+Node.js+%7C+assistant-ui+%7C+Remeni+API" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=AI+Chatbot;Powered+by+Node.js+%7C+assistant-ui+%7C+Remeni+API" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  ✨ A sleek <strong>AI-powered chatbot</strong> with a modern UI built using <strong>Node.js</strong>, <strong>assistant-ui</strong>, and <strong>Remeni API</strong>.  
+  ✨ A sleek <strong>AI-powered chatbot</strong> with a modern UI built using <strong>Node.js</strong>, <strong>assistant-ui</strong>, and <strong>Remeni API</strong>. <br>
   Designed for real-time conversations with streaming responses.
 </p>
 
@@ -17,15 +17,32 @@
 
 ---
 
-## ⚙️ Tech Stack  
+## 🛠️ Tech Stack  
 
-| Layer        | Technology / Library |
-|--------------|-----------------------|
-| **Backend**  | Node.js, Express |
-| **AI API**   | Remeni API (intelligent responses) |
-| **Frontend** | assistant-ui (React + TypeScript) |
-| **Utilities**| dotenv, cors |
-| **Deploy**   | Vercel 
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-4.x-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**AI API:**  
+![Remeni API](https://img.shields.io/badge/Remeni-API-blue?style=for-the-badge)
+
+**Frontend:**  
+![assistant-ui](https://img.shields.io/badge/assistant--ui-React%20%7C%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+**Utilities:**  
+![dotenv](https://img.shields.io/badge/dotenv-16.x-green?style=for-the-badge)  
+![CORS](https://img.shields.io/badge/cors-enabled-lightgrey?style=for-the-badge)
+
+**Deployment:**  
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)
+
+---
+
+## 📸 Screenshots  
+
+| Chat UI | Streaming Response |
+|---------|--------------------|
+| <img src="./screenshots/home.png" alt="Chatbot UI Screenshot" width="100%" /> | <img src="./screenshots/responsive_home.png" alt="Streaming Response Screenshot" width="100%" /> |
 
 ---
 
@@ -56,8 +73,5 @@ npm install
 # Setup environment
 echo "REMENI_API_KEY=your_api_key_here" > .env
 
-# Start backend
-npm run start:backend
-
-# Start frontend
+# Start
 npm run start:frontend

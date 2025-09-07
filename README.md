@@ -42,7 +42,7 @@
 
 | Chat UI | Streaming Response |
 |---------|--------------------|
-| <img src="./screenshots/Home.png" alt="Chatbot UI Screenshot" width="100%" /> | <img src="./screenshots/streaming_response.png" alt="Streaming Response Screenshot" width="100%" /> |
+| <img src="./screenshots/home.png" alt="Chatbot UI Screenshot" width="100%" /> | <img src="./screenshots/responsive_home.png" alt="Streaming Response Screenshot" width="100%" /> |
 
 ---
 

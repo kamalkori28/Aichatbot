@@ -1,8 +1,9 @@
-<h1 align="center">🤖 AI Chatbot (Aichatbot)</h1>
+<h1 align="center">🤖 AI Chatbot </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=AI+Chatbot;Powered+by+Node.js+%7C+assistant-ui+%7C+Remeni+API" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kamal+Kori;Created+with+Assistant-UI+%7C+Remeni+API" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   ✨ A sleek <strong>AI-powered chatbot</strong> with a modern UI built using <strong>Node.js</strong>, <strong>assistant-ui</strong>, and <strong>Remeni API</strong>. <br>

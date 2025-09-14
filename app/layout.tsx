@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Kamal AI Chatbot",
+  title: "AI Chatbot",
   description: "An AI-powered chatbot built with Next.js, TypeScript, and Tailwind CSS.",
 };
 
